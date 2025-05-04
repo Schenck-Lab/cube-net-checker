@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cube-net-checker/static/css/main.fedbbea3.css",
+    "main.js": "/cube-net-checker/static/js/main.25e2edbf.js",
+    "index.html": "/cube-net-checker/index.html",
+    "main.fedbbea3.css.map": "/cube-net-checker/static/css/main.fedbbea3.css.map",
+    "main.25e2edbf.js.map": "/cube-net-checker/static/js/main.25e2edbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fedbbea3.css",
+    "static/js/main.25e2edbf.js"
+  ]
+}
